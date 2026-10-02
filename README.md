@@ -39,4 +39,4 @@ Overall, the graphs show that partnered status is related to income, education, 
 
 The patterns are not exactly the same in every region, but the general trends are similar. Income and education seem to show stronger differences than work loss.
 
-These results show relationships in the data, but they do not prove that income, education, or work loss directly cause changes in partnered status. Other factors, such as age, family background, or personal circumstances, could also affect these results.
+These results show relationships in the data, but they do not prove that income, education, or work loss directly cause changes in partnered status. 
