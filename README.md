@@ -35,4 +35,8 @@ This graph compares partnered rates for people who reported a recent household w
 
 ## Conclusion
 
-Overall, income and education show a clearer relationship with partnered status than recent work loss. Higher income and higher education are generally associated with higher partnered rates across regions. These results show patterns in the data, but they do not prove that income, education, or work loss directly cause changes in partnered status.
+Overall, the graphs show that partnered status is related to income, education, and work loss across different regions. Partnered rates generally increase as income and education increase, while people who reported recent household work loss tend to have slightly lower partnered rates.
+
+The patterns are not exactly the same in every region, but the general trends are similar. Income and education seem to show stronger differences than work loss.
+
+These results show relationships in the data, but they do not prove that income, education, or work loss directly cause changes in partnered status. Other factors, such as age, family background, or personal circumstances, could also affect these results.
